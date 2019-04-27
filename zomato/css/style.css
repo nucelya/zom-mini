@@ -58,7 +58,7 @@ nav ul li a:hover{
 
 
   .cover{
-      background-image:linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.9)) ,url('/img/bg2.jpg');
+      background-image:linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.9)) ,url('../img/bg2.jpg');
       background-repeat: no-repeat;
       background-position: center;
       background-size: cover;
